@@ -6,24 +6,6 @@
   <a href="https://github.com/N1tingale?tab=repositories" target="_blank"><img alt="All Projects" title="All Projects" src="https://img.shields.io/badge/-View%20All%20Projects-39D353?style=for-the-badge"/></a>
 </p>
 
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=N1tingale&theme=github_dark">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1tingale&theme=github_dark" alt="Nazar's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/N1tingale">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1tingale&theme=github_dark" alt="Nazar's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/N1tingale"><img alt="Nazar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=N1tingale&show_icons=true&count_private=true&theme=github_dark&title_color=39D353&icon_color=39D353" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/N1tingale"><img alt="Nazar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=N1tingale&langs_count=8&layout=compact&theme=github_dark&title_color=39D353&icon_color=39D353" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+![N1tingale's Stats](https://github-readme-stats.vercel.app/api?username=N1tingale&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![N1tingale's Streak](https://github-readme-streak-stats.herokuapp.com/?user=N1tingale&theme=dark&hide_border=true)
+![N1tingale's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N1tingale&theme=dark&show_icons=true&hide_border=true&layout=compact)
